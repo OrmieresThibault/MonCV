@@ -1,0 +1,358 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+
+body {
+    background-color: rgb(149, 154, 156);
+}
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+/*NAVBAR*/
+
+.burger {
+    background-color: rgb(38, 38, 38) !important;
+    color: white !important;
+}
+
+.navbar {
+    position: sticky;
+    top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgb(38, 38, 38);
+    width: 100%;
+    z-index: 1;
+    border-bottom: 3px solid rgb(245, 223, 77);
+}
+
+.navbar a {
+    color: white;
+}
+
+.burger a {
+    color: white !important;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    margin: 25px;
+    text-decoration: none;
+}
+
+.navbar-brand {
+    font-family: "Great Vibes", cursive;
+    font-size: 40px;
+    text-transform: none;
+}
+
+li {
+    font-size: 1.2rem;
+}
+
+/* HEADER */
+
+header {
+    border-bottom: 3px solid rgb(245, 223, 77);
+}
+
+.banner-area {
+    background-image: url("https://i.postimg.cc/GtRM7mdX/1.jpg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 150px;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 150px;
+    font-family: Satisfy, cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    text-shadow: rgb(7, 7, 7) 3px 2px 2px;
+    opacity: 0.75;
+    height: 100vh;
+}
+
+.banner-area div {
+    font-size: 60px;
+    font-family: Satisfy, cursive;
+    display: flex;
+    justify-content: center;
+    color: white;
+    text-shadow: black 3px 2px 2px;
+    height: 50vh;
+    opacity: 0.8;
+}
+
+        /* MAIN */
+
+        /* A PROPOS */
+
+.text-part {
+    width: 65%;
+    height: 80%;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: Satisfy, cursive;
+    display: flex;
+    justify-content: center;
+    text-underline-offset: 5px;
+    margin-top: 130px;
+    text-decoration: underline 2px;
+    padding: 10px;
+}
+
+.about-area {
+    background-color: rgb(149, 154, 156);
+}
+
+.thibaultPhoto img {
+    width: 45vh;
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    border-radius: 50%;
+}
+
+p {
+    font-size: 25px;
+    line-height: 50px;
+}
+
+/* FORMATIONS */
+
+#formations {
+    background-color: rgb(38, 38, 38);
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-bottom: 3px solid rgb(245, 223, 77);
+}
+
+.pucesFormations li {
+    font-size: 20px;
+    font-style: italic;
+    margin: 20px;
+    list-style: none;
+}
+
+li {
+    font-size: 1.2rem;
+}
+
+/* EXPERIENCES PROFESSIONNELLES */
+
+h3 {
+    color: black;
+    font-family: Dosis, sans-serif;
+    font-weight: 700;
+}
+
+h4 {
+    color: rgb(223, 202, 69);
+    text-shadow: black 1px 1px 3px;
+}
+
+h5 {
+    color: black;
+    font-style: italic;
+}
+
+.card-body {
+    background-color: #D4D7DE;
+    height: 100%;
+    flex: 1 1 auto;
+    padding: 1rem 1rem;
+}
+
+.col-sm-4 img {
+    width: 100%;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+/* COMPETENCES */
+
+#compétences {
+    border-bottom: 3px solid rgb(245, 223, 77);
+}
+
+.port-area {
+    background-color: rgb(38, 38, 38);
+    color: rgb(255, 255, 255);
+    padding: 2rem;
+}
+
+.skilltitle {
+    font-size: 1.3rem;
+}
+
+.col-sm-6 h4 {
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    font-family: 'Dosis', sans-serif;
+}
+.col-sm-6 h4 {
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    font-family: 'Dosis', sans-serif;
+}
+
+/* PORTFOLIO */
+
+.portfolio {
+    background-color: rgb(149, 154, 156);
+}
+
+.portfolio h2 {
+    font-style: italic;
+    font-family: Satisfy, cursive;
+    color: rgb(38, 38, 38);
+    padding: 2rem;
+}
+
+/* CONTACT */
+
+#contact {
+    border: 3px solid rgb(245, 223, 77);
+}
+
+.contact-area {
+    background-color: rgb(38, 38, 38);
+    color: rgb(255, 255, 255);
+    
+}
+
+#submit {
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+}
+
+/* FOOTER */
+
+footer {
+    background-color: rgb(149, 154, 156);
+    color: rgb(38, 38, 38);
+}
+
+.footerSkills {
+    padding: 2rem;
+}
+
+.footerSkills h4 {
+    font-family: Satisfy, cursive;
+    font-size: 40px;
+}
+
+.footerSkills ul {
+    font-weight: 600;
+}
+
+.footerSkills li {
+    list-style: none;
+}
+
+.footerSkills h4 {
+    font-family: Satisfy, cursive;
+    font-size: 40px;
+}
+
+/* BARRE DE COOKIES */
+
+#cookies {
+    display:flex ;
+    justify-content:center;
+    align-items: center;
+    background-color: rgb(245, 223, 77);
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    box-shadow: rgb(49, 49, 49) 0px 1px 12px;
+}
+
+#cookies p {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+
+.cookiesbutton {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    height: 50px;
+    width: 90px;
+    text-align: center;
+    background-color: rgb(38, 38, 38);
+    box-shadow: rgb(49, 49, 49) 0px 1px 8px;
+    color: rgb(245, 223, 77);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.cookiesbutton p {
+    margin: 0px;
+}
+
+/* COPYRIGHT */
+
+.footercopyright p {
+    background-color: rgb(149, 154, 156);
+    color: black;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.about-area, .port-area, .service-area, .contact-area {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+/* hoover */
+
+h2:hover{
+    color: rgb(245, 223, 77);
+    cursor: pointer;
+}
+
+h4:hover{
+    color: rgb(245, 223, 77);
+    cursor: pointer;
+}
+
+a:hover{
+    color: rgb(245, 223, 77);
+    cursor: pointer;
+}
