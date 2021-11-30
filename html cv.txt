@@ -1,0 +1,480 @@
+<html lang="fr"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="Description" content="Enter your description here">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>CV Thibault Ormieres</title>
+    </head>
+    
+    <body>
+        
+        <nav class="navbar navbar-expand-lg navbar-light bg-light burger">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#">Thibault Ormieres</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarScroll">
+                <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#aPropos">A Propos</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#formations">Formations</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#expériences">Expériences professionnelles</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#compétences">Compétences</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#portfolio">Portfolio</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#contact">Contact</a>
+                  </li>                
+                </ul>
+              </div>
+            </div>
+        </nav>
+    
+        <!--Banniere-->
+    
+        <header>
+            <section class="banner-area" id="home">
+                <h1>Web Designer</h1>
+                <div id="sousTitre"></div>
+                <div>"La créativité n'a pas de limites"<div>
+            </div></div></section>
+        </header>
+    
+        <!--A propos-->
+    
+        <main>
+            <section class="about-area" id="aPropos">
+                <div class="text-part">
+                    <h2>A Propos</h2>
+                        <section class="row">
+                            <div class="photoTexte col col-lg-6">
+                                <div class="thibaultPhoto">
+                                <img src="assets/img/Photo cv .jpg" alt="photoCV">
+                                </div>
+                            </div>
+    
+                            <div class="col lg-6">
+                                <p>Dynamique, curieux et rigoureux, je m'investis pleinement dans les projets qui me sont confiés. Ma détermination et ma créativité me permet de me former rapidement sur de nouveaux sujets pour mener à bien mes missions et réussir mon intégration professionnelle.
+                                </p>
+                            </div>
+                        </section>
+                    </div>
+                
+            </section>
+    
+        <!--Formations-->
+    
+        <section class="row">
+            <div class="col lg-12">
+                <section class="about-area" id="formations">
+                    <div class="text-part">
+                    
+                        <h2>Formations</h2>
+    
+                        <ul class="pucesFormations">
+                            <li>
+                                2021 La Manu - Formation Concepteur Web designer UI, Le Havre - 76 600
+                            </li>
+                            <li>
+                                2016 Cours Florent - Formation Théâtrale/Cinématographique, 
+                                Paris - 75 019
+                            </li>
+                            <li>
+                                2013 BAC Pro Hôtellerie-Restauration, Rambouillet - 78 120
+                            </li>
+                            <li>
+                                2011 BEP Hôtellerie-Restauration, Rambouillet - 78 120
+                            </li>
+                            <li>
+                                2010 PSC 1, Rambouillet - 78 120
+                            </li>
+                        </ul>
+                    </div>
+                </section>
+            </div>
+        </section>
+    
+        <!--Expériences Professionnelles-->
+    
+            <section class="about-area" id="expériences">
+                <div class="text-part">
+                
+                        <h2>Expériences Professionnelles</h2>
+    
+                    <article>
+                        <article id="Orthopedie">
+                            <div class="card mb-3 py-6">
+                                <div class="row g-0">
+                                    <div class="col-sm-4">
+                                        <img src="assets/img/grenier_lapeyre_logo.jpg" class="img-fluid rounded-start" alt="logoOrthopedie">
+                                    </div>
+                                    <div class="col-sm-8">
+                                        <div class="card-body">
+    
+                                            <h3 class="card-title">LOGISTICIEN ORTHOPEDIQUE / ORTHÉSISTE</h3>
+                                            <h4>ORTHOPEDIE GRENIE LAPEYRE - BORDEAUX</h4>
+                                            <h5>2018-2020</h5>
+    
+                                            <ul class="pucesExperiences">
+                                                <li>
+                                                    Gestion du stock magasin
+                                                </li>
+                                                <li>
+                                                    Commandes et suivis fournisseur
+                                                </li>
+                                                <li>
+                                                    Livraison de matériels orthopédiques dans les hôpitaux
+                                                </li>
+                                                <li>
+                                                    Statistique/ inventaire
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                    </article>
+    
+                    <article>
+                        <article id="Matrix">
+                            <div class="card mb-3 py-6">
+                                <div class="row g-0">
+                                    <div class="col-sm-4">
+                                        <img src="assets/img/Matrix.jpg" class="img-fluid rounded-start" alt="logoMatrix">
+                                    </div>
+                                    <div class="col-sm-8">
+                                        <div class="card-body">
+    
+                                            <h3 class="card-title">INSTALLATEUR DE SALLE DE FITNESS A TRAVERS LA FRANCE</h3>
+                                            <h4>MATRIX JOHNSON HEALTH TECH FRANCE - REGION PARISIENNE</h4>
+                                            <h5>2016-2018</h5>
+    
+                                            <ul class="pucesExperiences">
+                                                <li>
+                                                    Construction de machines de fitness
+                                                </li>
+                                                <li>
+                                                    Livraison de machines de fitness
+                                                </li>
+                                                <li>
+                                                    Installation de salles de fitness sur plan d’architecte
+                                                </li>
+                                                <li>
+                                                    Management d’équipes et intérimaire
+                                                </li>
+                                                <li>
+                                                    S.A.V
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                    </article>
+    
+                    <article>
+                        <article id="Restaurant">
+                            <div class="card mb-3 py-6">
+                                <div class="row g-0">
+                                    <div class="col-sm-4">
+                                        <img src="assets/img/laplacelogo.jfif" class="img-fluid rounded-start" alt="logoLaPlace">
+                                    </div>
+                                    <div class="col-sm-8">
+                                        <div class="card-body">
+    
+                                            <h3 class="card-title">CUISINIER / EMPLOYER EN RESTAURATION</h3>
+                                            <h4>DIVERS ENTREPRISES DE RESTAURATION – REGION PARISIENNE</h4>
+                                            <h5>2010-2016</h5>
+    
+                                            <ul class="pucesExperiences">
+                                                <li>
+                                                    Restaurant gastronomique étoilé
+                                                </li>
+                                                <li>
+                                                    Restaurants traditionelle
+                                                </li>
+                                                <li>
+                                                    Barman
+                                                </li>
+                                                <li>
+                                                    Serveur
+                                                </li>
+                                                <li>
+                                                    Traiteur en Boucherie
+                                                </li>
+                                                <li>
+                                                    Évènementielle
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                    </article>
+                </article></article></article></div>
+            </section>
+    
+        <!--Compétences-->      
+    
+            <section class="port-area" id="compétences">
+                <div class="text-part">
+    
+                    <h2>Compétences</h2>
+                        
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <h4><strong>Programmation</strong></h4>
+    
+                            <div class="row" id="programme">
+                                <div class="col-md-6 skilltitle"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px"><path fill="#E65100" d="M41,5H7l3,34l14,4l14-4L41,5L41,5z"></path><path fill="#FF6D00" d="M24 8L24 39.9 35.2 36.7 37.7 8z"></path><path fill="#FFF" d="M24,25v-4h8.6l-0.7,11.5L24,35.1v-4.2l4.1-1.4l0.3-4.5H24z M32.9,17l0.3-4H24v4H32.9z"></path><path fill="#EEE" d="M24,30.9v4.2l-7.9-2.6L15.7,27h4l0.2,2.5L24,30.9z M19.1,17H24v-4h-9.1l0.7,12H24v-4h-4.6L19.1,17z"></path></svg>HTML5
+                                </div>
+                            
+                                <div class="col-md-6 skilltitle"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px"><path fill="#0277BD" d="M41,5H7l3,34l14,4l14-4L41,5L41,5z"></path><path fill="#039BE5" d="M24 8L24 39.9 35.2 36.7 37.7 8z"></path><path fill="#FFF" d="M33.1 13L24 13 24 17 28.9 17 28.6 21 24 21 24 25 28.4 25 28.1 29.5 24 30.9 24 35.1 31.9 32.5 32.6 21 32.6 21z"></path><path fill="#EEE" d="M24,13v4h-8.9l-0.3-4H24z M19.4,21l0.2,4H24v-4H19.4z M19.8,27h-4l0.3,5.5l7.9,2.6v-4.2l-4.1-1.4L19.8,27z"></path></svg>CSS
+                                </div>
+                            </div>
+    
+                            <div class="row">
+                                <div class="col-md-6 skilltitle"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px"><path fill="#ffd600" d="M6,42V6h36v36H6z"></path><path fill="#000001" d="M29.538 32.947c.692 1.124 1.444 2.201 3.037 2.201 1.338 0 2.04-.665 2.04-1.585 0-1.101-.726-1.492-2.198-2.133l-.807-.344c-2.329-.988-3.878-2.226-3.878-4.841 0-2.41 1.845-4.244 4.728-4.244 2.053 0 3.528.711 4.592 2.573l-2.514 1.607c-.553-.988-1.151-1.377-2.078-1.377-.946 0-1.545.597-1.545 1.377 0 .964.6 1.354 1.985 1.951l.807.344C36.452 29.645 38 30.839 38 33.523 38 36.415 35.716 38 32.65 38c-2.999 0-4.702-1.505-5.65-3.368L29.538 32.947zM17.952 33.029c.506.906 1.275 1.603 2.381 1.603 1.058 0 1.667-.418 1.667-2.043V22h3.333v11.101c0 3.367-1.953 4.899-4.805 4.899-2.577 0-4.437-1.746-5.195-3.368L17.952 33.029z"></path></svg>JavaScript
+                                </div>
+                                <div class="col-md-6 skilltitle"><img src="https://img.icons8.com/ios-glyphs/50/000000/php.png">PHP
+                                </div>
+                            </div>  
+                        </div>
+    
+                        <div class="col-sm-6">
+                            <h4><strong>Design/Autres</strong></h4>
+                            
+                            <div class="row">
+                                <div class="col-md-6 skilltitle"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px"><path fill="#03A9F4" d="M6,10c0-2.209,1.791-4,4-4h28c2.209,0,4,1.791,4,4v28c0,2.209-1.791,4-4,4H10c-2.209,0-4-1.791-4-4V10z"></path><path fill="#020F16" d="M20.016,19.174h-2.002v4.434h1.973c0.547,0,0.97-0.179,1.27-0.537s0.449-0.879,0.449-1.563c0-0.71-0.153-1.274-0.459-1.694S20.53,19.181,20.016,19.174z"></path><path fill="#020F16" d="M9,9v30h30V9H9z M23.365,24.789C22.539,25.597,21.393,26,19.928,26h-1.914v5h-2.871V16.781h4.844c1.406,0,2.528,0.437,3.364,1.309s1.255,2.005,1.255,3.398S24.192,23.981,23.365,24.789z M32.682,30.336c-0.709,0.573-1.641,0.859-2.793,0.859c-0.775,0-1.459-0.151-2.051-0.454s-1.057-0.725-1.392-1.265s-0.503-1.123-0.503-1.748h2.627c0.014,0.481,0.125,0.843,0.337,1.084s0.558,0.361,1.04,0.361c0.742,0,1.113-0.335,1.113-1.006c0-0.234-0.112-0.451-0.337-0.649S30,27.052,29.225,26.713c-1.139-0.462-1.922-0.94-2.349-1.436s-0.64-1.11-0.64-1.846c0-0.925,0.334-1.688,1.001-2.29s1.552-0.903,2.651-0.903c1.158,0,2.086,0.3,2.783,0.898s1.045,1.403,1.045,2.412h-2.764c0-0.859-0.357-1.289-1.074-1.289c-0.293,0-0.533,0.091-0.723,0.273s-0.283,0.437-0.283,0.762c0,0.234,0.104,0.441,0.313,0.62s0.699,0.435,1.475,0.767c1.127,0.417,1.922,0.881,2.388,1.392s0.698,1.174,0.698,1.987C33.746,29.005,33.391,29.763,32.682,30.336z"></path></svg>Photoshop
+                                </div>
+    
+                                <div class="col-md-6 skilltitle"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px"><path fill="#FF5722" d="M6,10c0-2.209,1.791-4,4-4h28c2.209,0,4,1.791,4,4v28c0,2.209-1.791,4-4,4H10c-2.209,0-4-1.791-4-4V10z"></path><path fill="#1C0802" d="M9,9v30h30V9H9z M23.691,31l-0.762-2.91h-3.916L18.252,31h-3.037l4.443-14.219h2.627L26.758,31H23.691z M30.85,31h-2.773V20.434h2.773V31z M30.552,18.754c-0.271,0.28-0.636,0.42-1.099,0.42s-0.828-0.14-1.099-0.42s-0.405-0.632-0.405-1.055c0-0.43,0.137-0.781,0.41-1.055s0.639-0.41,1.094-0.41s0.82,0.137,1.094,0.41s0.41,0.625,0.41,1.055C30.957,18.122,30.822,18.474,30.552,18.754z"></path><path fill="#1C0802" d="M19.639 25.697L22.295 25.697 20.967 20.629z"></path></svg>Illustrator
+                                </div>
+                            </div>
+    
+                            <div class="row">
+                                <div class="col-md-6 skilltitle"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px"><path fill="#E91E63" d="M5,10c0-2.209,1.791-4,4-4h28c2.209,0,4,1.791,4,4v28c0,2.209-1.791,4-4,4H9c-2.209,0-4-1.791-4-4V10z"></path><path fill="#16020B" d="M26.283,22.553c-0.508,0-0.879,0.205-1.113,0.615s-0.352,1.14-0.352,2.188v0.732c0,1.042,0.111,1.77,0.332,2.183c0.221,0.413,0.596,0.62,1.123,0.62c0.547,0,0.961-0.244,1.24-0.732v-4.824C27.24,22.813,26.83,22.553,26.283,22.553z"></path><path fill="#16020B" d="M8,9v30h30V9H8z M20.141,31H17.27V16.781h2.871V31z M30.297,31h-2.51l-0.127-1.074c-0.566,0.847-1.295,1.27-2.188,1.27c-1.107,0-1.952-0.423-2.534-1.27s-0.88-2.09-0.894-3.73v-0.801c0-1.731,0.293-3.024,0.879-3.877s1.439-1.279,2.559-1.279c0.814,0,1.49,0.352,2.031,1.055V16h2.783V31z"></path></svg>Indesign
+                                </div>
+                           
+                                <div class="col-md-6 skilltitle"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px"><path fill="#ff41c8" d="M6,10c0-2.209,1.791-4,4-4h28c2.209,0,4,1.791,4,4v28c0,2.209-1.791,4-4,4H10c-2.209,0-4-1.791-4-4 V10z"></path><path fill="#16020b" d="M9,9v30h30V9H9z M19.093,21.695l1.914-4.883h3.291l-3.34,7.051l3.418,7.168h-3.33l-1.953-4.971 l-1.943,4.971h-3.33l3.418-7.168l-3.35-7.051h3.291L19.093,21.695z M25.069,25.426c0-1.732,0.293-3.024,0.879-3.877 s1.438-1.279,2.559-1.279c0.813,0,1.491,0.352,2.031,1.055v-5.293h2.783v15h-2.51l-0.127-1.074c-0.566,0.847-1.296,1.27-2.188,1.27 c-1.106,0-1.951-0.423-2.534-1.27s-0.881-2.09-0.894-3.73V25.426z M27.843,26.119c0,1.042,0.11,1.77,0.332,2.183 s0.596,0.62,1.123,0.62c0.547,0,0.96-0.244,1.24-0.732v-4.824c-0.273-0.521-0.684-0.781-1.23-0.781 c-0.508,0-0.879,0.205-1.113,0.615s-0.352,1.14-0.352,2.188V26.119z"></path></svg>Adob XD
+                                </div>
+                            </div>
+    
+                            <div class="row">
+                                <div class="col-md-6 skilltitle"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px"><path fill="#e64a19" d="M7 12L29 4 41 7 41 41 29 44 7 36 29 39 29 10 15 13 15 33 7 36z"></path></svg>PackOffice
+                                </div>
+                            
+                                <div class="col-md-6 skilltitle"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px"><path fill="#fff" d="M24 4.050000000000001A19.95 19.95 0 1 0 24 43.95A19.95 19.95 0 1 0 24 4.050000000000001Z"></path><path fill="#01579b" d="M8.001,24c0,6.336,3.68,11.806,9.018,14.4L9.385,17.488C8.498,19.479,8.001,21.676,8.001,24z M34.804,23.194c0-1.977-1.063-3.35-1.67-4.412c-0.813-1.329-1.576-2.437-1.576-3.752c0-1.465,1.471-2.84,3.041-2.84 c0.071,0,0.135,0.006,0.206,0.008C31.961,9.584,28.168,8,24.001,8c-5.389,0-10.153,2.666-13.052,6.749 c0.228,0.074,0.307,0.039,0.611,0.039c1.669,0,4.264-0.2,4.264-0.2c0.86-0.057,0.965,1.212,0.099,1.316c0,0-0.864,0.105-1.828,0.152 l5.931,17.778l3.5-10.501l-2.603-7.248c-0.861-0.046-1.679-0.152-1.679-0.152c-0.862-0.056-0.762-1.375,0.098-1.316 c0,0,2.648,0.2,4.217,0.2c1.675,0,4.264-0.2,4.264-0.2c0.861-0.057,0.965,1.212,0.104,1.316c0,0-0.87,0.105-1.832,0.152l5.891,17.61 l1.599-5.326C34.399,26.289,34.804,24.569,34.804,23.194z M24.281,25.396l-4.8,13.952c1.436,0.426,2.95,0.652,4.52,0.652 c1.861,0,3.649-0.324,5.316-0.907c-0.04-0.071-0.085-0.143-0.118-0.22L24.281,25.396z M38.043,16.318 c0.071,0.51,0.108,1.059,0.108,1.645c0,1.628-0.306,3.451-1.219,5.737l-4.885,14.135C36.805,35.063,40,29.902,40,24 C40,21.219,39.289,18.604,38.043,16.318z"></path><path fill="#01579b" d="M4,24c0,11.024,8.97,20,19.999,20C35.03,44,44,35.024,44,24S35.03,4,24,4S4,12.976,4,24z M5.995,24 c0-9.924,8.074-17.999,18.004-17.999S42.005,14.076,42.005,24S33.929,42.001,24,42.001C14.072,42.001,5.995,33.924,5.995,24z"></path></svg>WordPress
+                                </div>
+                            </div>
+                           
+    
+                            <div class="row">
+                                <div class="col-md-6 skilltitle"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px"><path fill="#039be5" d="M8.229,45.001c-0.287,0-0.576-0.039-0.86-0.118c-0.835-0.231-1.529-0.779-1.955-1.541C5.141,42.851,4.998,42.294,5,41.731V6.283C4.979,4.501,6.406,3.022,8.182,3c0.59-0.013,1.139,0.142,1.632,0.425l31.747,18.079c1.363,0.786,1.839,2.541,1.067,3.913c-0.252,0.449-0.62,0.821-1.063,1.076c-0.001,0.001-0.003,0.002-0.005,0.003L9.811,44.577C9.321,44.857,8.778,45.001,8.229,45.001z"></path><path fill="#0277bd" d="M5,22.1v19.632c-0.002,0.563,0.141,1.119,0.415,1.61c0.425,0.762,1.119,1.31,1.955,1.541c0.284,0.079,0.573,0.118,0.86,0.118c0.549,0,1.092-0.144,1.582-0.424l17.33-9.869L5,22.1z"></path><path fill="#29b6f6" d="M10,16.284v28.185l29.664-16.893L14.815,13.426c-0.494-0.283-1.042-0.438-1.632-0.425C11.406,13.023,9.979,14.502,10,16.284z"></path><path fill="#039be5" d="M10 24.947L10 44.469 13.64 42.396 27.141 34.708z"></path><path fill="#29b6f6" d="M25.743,32.001c-0.148,0-0.297-0.02-0.445-0.059c-0.457-0.123-0.85-0.437-1.079-0.859c-0.147-0.271-0.224-0.581-0.219-0.893V17.796c-0.01-0.972,0.759-1.782,1.714-1.796c0.327-0.004,0.641,0.083,0.918,0.255l10.573,6.321c0.758,0.463,1.016,1.437,0.594,2.222c-0.141,0.261-0.345,0.477-0.592,0.625c0,0-0.001,0-0.002,0.001L26.62,31.753C26.354,31.916,26.052,32.001,25.743,32.001z"></path><path fill="#81d4fa" d="M25.298,31.942c0.147,0.039,0.297,0.059,0.445,0.059c0.309,0,0.611-0.085,0.877-0.248l9.941-5.944L24,18.656V30.19c-0.004,0.312,0.072,0.621,0.219,0.893C24.448,31.506,24.842,31.819,25.298,31.942z"></path></svg>SonyVegas
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div></section>        
+    
+        <!--Portfolio-->
+    
+        <div class="container">
+            <section class="portfolio" id="portfolio">
+            
+                <div class="row">
+                    <div class="col lg-12">           
+                        <h2>Quelques réalisations</h2>
+                    </div>
+                </div>
+            </section>
+        </div>
+    
+        <!--Contact--> 
+    
+        <section class="container">
+            <section class="contact-area" id="contact">
+                <div class="text-part">
+    
+                    <h2>Restons en contact!</h2>
+    
+                    <div class="row mrgn30 col-lg-12">
+        
+                            <div class="col-lg-4">
+                                <div class="form-group">
+                                    <label for="name">Nom:</label>
+                                    <input type="text" class="form-control" name="name" id="name" placeholder="Entrer votre nom" title="Veuillez entrer votre nom">
+                                </div>
+    
+                                <div class="form-group">
+                                    <label for="name">Prénom:</label>
+                                    <input type="text" class="form-control" name="name" id="name" placeholder="Entrer votre prénom" title="Veuillez entrer votre prénom">
+                                </div>
+    
+                                <div class="form-group">
+                                    <label for="email">Email:</label>
+                                    <input type="email" class="form-control" name="email" id="email" placeholder="Entrer votre email" title="Veuillez entrer votre adresse E-mail">
+                                </div>
+                            </div>
+    
+                            <div class="col-lg-4">
+                                <div class="form-group">
+                                <label for="comments">Message:</label>
+    
+                                <textarea name="comment" class="form-control" id="comments" cols="3" rows="5" placeholder="Entrer votre message…" title="Please enter your message (at least 10 characters)"></textarea>
+                                </div>
+    
+                                <button name="submit" type="submit" class="btn btn-lg btn-warning" id="submit">Envoyer</button>
+    
+                                <div class="result"></div>
+                            </div>
+    
+                        <div class="col-lg-4">
+                            
+                            <h4> <i class="fas fa-mobile-alt"></i> Téléphone:</h4>
+    
+                            <address>
+                                06.61.80.92.90
+                            </address>
+    
+                            <h4><i class="far fa-envelope"></i> Email:</h4>
+    
+                            <address>
+                                ormieresthibault@hotmail.fr
+                            </address>
+    
+                            <h4><i class="fas fa-home"></i> Adresse:</h4>
+    
+                            <address>
+                                Le Havre, 76 600, France
+                            </address>
+    
+                            <h4><i class="fas fa-info-circle"></i> Informations:</h4>
+    
+                            <address>
+                                Francais, 27ans
+                                Permis A et B, véhiculé
+                            </address>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </section>
+    </main>
+    
+        <!--Footer-->
+    
+        <footer>
+            <div class="container">           
+                <div class="footerSkills">
+                    <div class="row">
+                    
+    
+                        <div class="col-lg-3 justify-content-center"> 
+                            <div class="softSkills">
+    
+                                <h4>Soft Skills</h4>
+                                <ul>
+                                    <li>Organisé</li>
+                                    <li>Joviale</li>
+                                    <li>Pragmatique</li>
+                                    <li>Méticuleux</li>
+                                </ul>
+                            </div>
+                        </div>
+    
+                        <div class="col-lg-3">
+                            <div class="langues">
+    
+                                <h4>Langues</h4>
+                                <ul>
+                                    <li>Francais</li>
+                                    <li>Anglais</li>
+                                    <li>Espagnol</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+    
+                        <div class="col-lg-3">
+                            <div class="intérêts">
+    
+                                <h4>Intérêts</h4>
+                                <ul>
+                                    <li>Sports</li>
+                                    <li>Voyages</li>
+                                    <li>Arts Graphiques</li>
+                                    <li>Audiovisuels</li>
+                                    <li>Modélismes</li>
+                                </ul>
+                            </div>
+                        </div>
+    
+                        <div class="col-lg-3">
+                            <div class="réseauSociaux">
+    
+                                <h4>Réseaux sociaux</h4>
+    
+                                <ul class="Liste-reseaux">
+                                    <li><a href="https://www.linkedin.com/in/thibault-ormieres-134558203/"><i class="fab fa-linkedin"></i>     linkedin</a></li>
+                    
+                                    <li><a href="https://github.com/OrmieresThibault"><i class="fab fa-github"></i> Github</a></li>
+                    
+                                    <li><a href="https://discord.com/channels/908405577271619585/908405577271619588"><i class="fab fa-discord"></i> Discord</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>                
+                </div>
+            </div>
+        </footer>
+    
+        <!--Barre de cookie-->
+    
+        <div id="cookies" style="display: flex;">
+            <p>Bonjour! Bienvenue sur le C.V de Thibault Ormieres, êtes-vous sur de vouloir continuer sur le site web?</p>
+    
+            <div id="accept" class="cookiesbutton">
+                <p>Accepter</p>
+            </div>
+    
+            <!-- <div id="refus" class= "cookiesbutton">
+                <p>Refuser</p>            
+            </div> -->
+        </div>
+    
+    
+        <!--Copyright-->
+    
+        <section class="container">
+            <div class="row">
+                <div class="col lg-12">
+                    <section class="footercopyright">
+                        <p>Copyright © 2021 Ormieres Thibault
+                        /Mentions légales/Conditions générales d'utilisation/Politique de confidentialité/Remerciements
+                        </p>
+                    </section>
+                </div>
+            </div>
+        </section>
+        
+        
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/js/bootstrap.min.js"></script>
+        <script src="asset/js/jquery-3.2.1.js"></script>
+        <script src="assets/js/script.js"></script>
+    </body>
+</html>
