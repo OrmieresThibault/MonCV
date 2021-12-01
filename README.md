@@ -1,7 +1,7 @@
 # MonCV
 https://ormieresthibault.github.io/MonCV/
 
-# shifumi
+# Shi-fu-mi
 Accès au projet :
 https://louis-auffret.github.io/shifumi/
 
