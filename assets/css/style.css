@@ -296,7 +296,8 @@ h5 {
 } 
 
 .portfolio_single_content img{
-	width: 80%;
+	width: 85%;
+    height: 85%;
 	position: relative;
 	top: 0;
 	left: 0;
